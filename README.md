@@ -3,7 +3,7 @@ A collection of Data Science focused notebook engines
 
 | Name | URL | Notes   |
 |------|-----|---|
-| NextJounral     |     | Good support for Julia; cluttered and sometimes confusing interface  |
+| NextJounral     | https://nextjournal.com/    | <ul> <li> Good support for Julia </li> <li>cluttered and sometimes confusing interface</li> <li> allows you to build images; so pre-compiling is possible </li>  </ul> |
 | Jupyter      |     | The original   |
 | Google Colab     |     |   |
 | Juliabox     |     | Julia only  |
