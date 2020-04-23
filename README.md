@@ -12,4 +12,5 @@ A collection of Data Science focused notebook engines
 | MyBinder     |     | Binder  |
 | Kaggle     |     | Proprietary  |
 | AWS SageMaker     |     | Proprietary  |
+| Paper space | https://www.paperspace.com/ | Meant to be fast, not tested yet. |
 
