@@ -6,7 +6,7 @@ A collection of Data Science focused notebook engines
 | NextJounral     | https://nextjournal.com/    | <ul> <li> Good support for Julia </li> <li>cluttered and sometimes confusing interface</li> <li> allows you to build images; so pre-compiling is possible </li>  </ul> |
 | Jupyter      |     | The original   |
 | Google Colab     |     |   |
-| CoCalc     |     |   |
+| CoCalc     | https://cocalc.com | <ul><li>R, Python, Julia, and other languages</li><li>Hundreds of GB of installed packages</li><li>Jupyter notebooks, many kernels</li><li>Rmd, LaTeX</li><li>real-time collaboration</li></ul>   |
 | MatrixDS     |     |   |
 | MyBinder     |     | Binder  |
 | Kaggle     |     | Proprietary  |
