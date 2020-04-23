@@ -15,4 +15,5 @@ A collection of Data Science focused notebook engines
 
 # died
 | Name | URL | Notes   |
+|------|-----|---|
 | Juliabox     |     | Julia only; died on May 2020 |
