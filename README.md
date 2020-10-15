@@ -14,6 +14,7 @@ A collection of Data Science focused notebook engines
 | Paper space | https://www.paperspace.com/ | Not sure | Meant to be fast, not tested yet. |
 | Observable | https://Observablehq.com/ | Not sure | magic notebook for exploring data |
 | Pluto | https://github.com/fonsp/Pluto.jl | Only Julia | ⚡ Lightweight reactive notebooks for Julia |
+| Code Ocean | https://codeocean.com/ | | |
 
 # died
 | Name | URL | Notes   |
