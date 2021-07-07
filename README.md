@@ -10,7 +10,7 @@ A collection of Data Science focused notebook engines
 | MatrixDS     |     | Yes |   |
 | MyBinder     |     | Yes; requires some tricks | Binder  |
 | Kaggle     |     | No| Proprietary  |
-| AWS SageMaker     |     | Not sure; likely not yet | Proprietary  |
+| AWS SageMaker     |     | Yes | Proprietary  |
 | Paper space | https://www.paperspace.com/ | Not sure | Meant to be fast, not tested yet. |
 | Observable | https://Observablehq.com/ | Not sure | magic notebook for exploring data |
 | Pluto | https://github.com/fonsp/Pluto.jl | Only Julia | ⚡ Lightweight reactive notebooks for Julia |
