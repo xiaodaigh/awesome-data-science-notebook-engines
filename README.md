@@ -15,6 +15,7 @@ A collection of Data Science focused notebook engines
 | Observable | https://Observablehq.com/ | Not sure | magic notebook for exploring data |
 | Pluto | https://github.com/fonsp/Pluto.jl | Only Julia | ⚡ Lightweight reactive notebooks for Julia |
 | Code Ocean | https://codeocean.com/ | | |
+| Elixir livebook | https://github.com/elixir-nx/livebook | no | is it data science focused? probably not. |
 
 # died
 | Name | URL | Notes   |
