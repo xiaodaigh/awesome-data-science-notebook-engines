@@ -16,6 +16,7 @@ A collection of Data Science focused notebook engines
 | Pluto | https://github.com/fonsp/Pluto.jl | Only Julia | ⚡ Lightweight reactive notebooks for Julia |
 | Code Ocean | https://codeocean.com/ | | |
 | Elixir livebook | https://github.com/elixir-nx/livebook | no | is it data science focused? probably not. |
+| Deepnote | https://deepnote.com/ | [yes, requires setup](https://docs.deepnote.com/environment/custom-environments/running-your-own-kernel) |  Very slick UI, data science targeted |
 
 # died
 | Name | URL | Notes   |
