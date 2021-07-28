@@ -12,7 +12,7 @@ A collection of Data Science focused notebook engines
 | Kaggle     |     | No| Proprietary  |
 | AWS SageMaker     |     | Not sure; suspect you can install the Julia kernel yourself | Proprietary  |
 | Paper space | https://www.paperspace.com/ | Not sure | Meant to be fast, not tested yet. |
-| Observable | https://Observablehq.com/ | Not sure | magic notebook for exploring data |
+| Observable | https://Observablehq.com/ | No, only JavaScript | Runs code directly in your browser, viewers can instantly edit and run code! |
 | Pluto | https://github.com/fonsp/Pluto.jl | Only Julia | ⚡ Lightweight reactive notebooks for Julia |
 | Code Ocean | https://codeocean.com/ | | |
 | Elixir livebook | https://github.com/elixir-nx/livebook | no | is it data science focused? probably not. |
