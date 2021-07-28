@@ -3,7 +3,7 @@ A collection of Data Science focused notebook engines
 
 | Name | URL | Julia | Notes   |
 |------|-----|---|---|
-| NextJounral     | https://nextjournal.com/   | Yes | <ul> <li> Good support for Julia </li> <li>cluttered and sometimes confusing interface</li> <li> allows you to build images; so pre-compiling is possible </li>  </ul> |
+| NextJournal     | https://nextjournal.com/   | Yes | <ul> <li> Good support for Julia </li> <li>cluttered and sometimes confusing interface</li> <li> allows you to build images; so pre-compiling is possible </li>  </ul> |
 | Jupyter      |     | Yes | The original   |
 | Google Colab     |     |   |
 | CoCalc     | https://cocalc.com | Yes | <ul><li>R, Python, Julia, and other languages</li><li>Hundreds of GB of installed packages</li><li>Jupyter notebooks, many kernels</li><li>Rmd, LaTeX</li><li>real-time collaboration</li></ul>   |
